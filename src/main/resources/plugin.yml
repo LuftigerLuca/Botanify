@@ -1,0 +1,5 @@
+name: Botanify
+version: ${project.version}
+main: eu.luftiger.botanify.Botanify
+author: LuftigerLuca
+description: A plugin that allows you to bring a little botanic to your minecraft server
