@@ -1,6 +1,7 @@
 package eu.luftiger.botanify.service.configuration;
 
 import eu.luftiger.luftigerlib.configuration.spigot.SpigotConfiguration;
+import org.bukkit.Material;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class MessageService extends SpigotConfiguration {
